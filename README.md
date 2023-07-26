@@ -1,8 +1,4 @@
-![N|Solid](https://kuplio.ru/assets/images/ru/eshops/cda55be89a67eec4775a75c9c1895aa2.webp)
-
 ## Домашнее задание по теме «Mockito. Мокирование вызовов, Mock»
-
-
 
 # Сервис отправки локализованных сообщений
 
